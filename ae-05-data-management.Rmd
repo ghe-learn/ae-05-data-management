@@ -8,19 +8,21 @@ output:
 
 <!-- help text is included in angle brackets, and can be deleted before saving  -->
 
-# Exercise 1 - Clone the repo
+# Exercises
+
+## Exercise 1 - Clone the repo
 
 1. Open the rbtl organisation on GitHub and locate your repository for this assignment (i.e. ae-05-data-management-GITHUB-USERNAME)
 2. Open the rbtl workspace on rstudio.cloud and clone the your repository into the workspace
 
-# Exercise 2 - Read this paper
+## Exercise 2 - Read this paper
 
 1. Read: [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-2. Summarise in your own words what you have learned from reading [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). 
+2. Summarise what you have learned from reading [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). Add your text to the R Markdown file in the repository. 
 
 <!-- You can write free text or use bullet points --> 
 
-# Exercise 3 - Add your data template
+## Exercise 3 - Add your data template
 
 **If you are using a survey as your data collection tool:**
 
@@ -48,7 +50,7 @@ knitr::include_graphics("img/rscloud-upload-file-2.png")
 5. Upload your created file into the `/data` directory (see screenshots above).
 6. commit, add, and push your changes to GitHub.
 
-# Exercise 4 - Add your documentation (codebook)
+## Exercise 4 - Add your documentation (codebook)
 
 Independent of whether you are using a survey or experimental data as your data collection tool:
 
@@ -67,7 +69,7 @@ Independent of whether you are using a survey or experimental data as your data 
 | unitText     | the units the variable was measured in                  |
 | variableType | the variable data type                                  |
 
-# Exercise 4 - Add your metadata 
+## Exercise 4 - Add your metadata 
 
 1. Open the rbtl workspace on rstudio.cloud and open your project for this assignment.
 2. Navigate to the `/data` directory in the file manager (bottom right window) and click on the directory.
@@ -75,6 +77,8 @@ Independent of whether you are using a survey or experimental data as your data 
 4. Add all information that is applicable and save the file.
 5. commit, add, and push your changes to GitHub.
 
-# Exercise 5
+## Exercise 5
 
 1. knit this document, and commit, add, and push your changes to GitHub
+
+# 

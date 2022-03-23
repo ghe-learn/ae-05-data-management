@@ -1,0 +1,7 @@
+fileName,variableName,description,unitText,variableType
+UserResponses.csv,Date Started,Date when survey was started,DD.MM.YYYY,date
+UserResponses.csv,happiness_before,Question: How happy did you feel before joining class today? Values: Excellent/Good/Neutral/Fair/Poor,NA,factor
+UserResponses.csv,happiness_increase,Question: Has your happiness increased after 1 hour class? Values: Yes/No,NA,character
+UserResponses.csv,estimate_no_idea,"Question: Estimate how many times you thought to yourself ""I have no idea what they are talking about"" in the past hour? Values: Number",NA,numeric
+UserResponses.csv,comment_confusing,Question: Can you share a comment on an item that was most confusing? Answer: Free text,NA,character
+UserResponses.csv,effort_homework,"Question: On a scale from 1 (low) to 10 (high), how would you rate the amount of effort you had to put into your homework so far?",NA,factor

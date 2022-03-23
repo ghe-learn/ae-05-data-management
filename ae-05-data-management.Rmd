@@ -19,6 +19,7 @@ output:
 
 1. Read: [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 2. Summarise what you have learned from reading [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). Add your text to the R Markdown file in the repository. 
+3. knit this document, and commit, add, and push your changes to GitHub.
 
 <!-- You can write free text or use bullet points --> 
 
@@ -79,6 +80,6 @@ Independent of whether you are using a survey or experimental data as your data 
 
 ## Exercise 5
 
-1. knit this document, and commit, add, and push your changes to GitHub
+1. knit this document, and commit, add, and push your changes to GitHub.
+2. Open on issue on the repo to let us know you have completed the assignment.
 
-# 

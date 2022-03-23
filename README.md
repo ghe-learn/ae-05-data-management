@@ -20,13 +20,9 @@ A template CSV file for attributes of datasets contained in this folder. The fil
 | unitText     | the units the variable was measured in                  |
 | variableType | the variable data type                                  |
 
-**`UserResponses.csv`**
+**README.md**
 
-A dataset exported from a survey created with Select Survey with attributes described in `attributes.csv`.
-
-**DATASETNAME-readme.md**
-
-A [markdown template](https://cornell.app.box.com/v/ReadmeTemplate) taken from a [guide shared by Cornell University](https://data.research.cornell.edu/content/readme) and recommended for use by ETH Library under [Guidance and instructions for the ETH Zurich DMP template - Section 1: Data collection and documentation - 1.3 What documentation and metadata will you provide with the data? - Supporting resources](https://documentation.library.ethz.ch/display/DD/Data+Management+Plan+Instructions+for+ETH+Zurich+Researchers). 
+A [markdown template](https://cornell.app.box.com/v/ReadmeTemplate) adapted from a [guide shared by Cornell University](https://data.research.cornell.edu/content/readme) and recommended for use by ETH Library under [Guidance and instructions for the ETH Zurich DMP template - Section 1: Data collection and documentation - 1.3 What documentation and metadata will you provide with the data? - Supporting resources](https://documentation.library.ethz.ch/display/DD/Data+Management+Plan+Instructions+for+ETH+Zurich+Researchers). 
 
 
 

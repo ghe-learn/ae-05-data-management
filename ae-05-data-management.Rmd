@@ -51,6 +51,7 @@ output:
 ```{r, echo=FALSE}
 knitr::include_graphics("img/rscloud-upload-file.png")
 ```
+
 ```{r, echo=FALSE}
 knitr::include_graphics("img/rscloud-upload-file-2.png")
 ```
@@ -87,7 +88,7 @@ Independent of whether you are using a survey or experimental data as your data 
 
 1. Open the rbtl workspace on rstudio.cloud and open your project for this assignment.
 2. Navigate to the `/data` directory in the file manager (bottom right window) and click on the directory.
-3. Click on the `DATASETNAME-readme.md` file to open it in your code editor (top left window).
+3. Click on the `README.md` file to open it in your code editor (top left window).
 4. Add all information that is applicable and save the file.
 5. commit, add, and push your changes to GitHub.
 
